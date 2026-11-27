@@ -42,7 +42,7 @@ align-items: center;
 
 min-height: 100vh;
 
-background: #1b171f;
+background: var(--base-background-color);
 
  overflow-x: hidden;
 
